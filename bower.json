@@ -1,0 +1,28 @@
+{
+  "name": "mean",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/preston0769/mean",
+  "authors": [
+    "Preston Zhang <preston.yuantao.zhang@gmail.com>"
+  ],
+  "description": "the project to understand the MEAN framework",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "mean",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
